@@ -1,0 +1,4 @@
+student Id, Student name,Student college, Student email, Student status, DSA Final Score, WebD Final Score, React Final Score, Interview date, Interview company, Interview result
+6384e141c2726c806728fafc,Suraj Misal,Dr JJMCOE,suraj@gmail.com,undefined,85,90,81,2022-12-09,Amazon,PASS
+6385ec41b35b1d352bc4b8e9,Chirs Thomas,Dr JJMCOE,chris@gmail.com,undefined,90,85,80,2022-12-15,Meta,PASS
+6386de8ee375c99b0f559903,test,abc,t1@gmail.com,undefined,12,19,23,2022-11-16,a,PASS
